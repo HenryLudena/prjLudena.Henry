@@ -11,9 +11,7 @@ import LudenaUtility.Utility;
 
 public class App {
     public static void main(String[] args) throws Exception {
-
         int nroTermino=0;
-        
         Utility.ClearTerminal();
         System.out.println("Datos: ");
         System.out.println("\t - Nombres: Henry Ludeña");
